@@ -2,4 +2,6 @@ module github.com/my-org-for-test/go-repo-in
 
 go 1.22
 
-require github.com/my-org-for-test/go-repo-out v1.0.2
+require github.com/my-org-for-test/go-repo-out v1.0.4
+
+replace github.com/my-org-for-test/go-repo-out v1.0.4 => github.com/my-org-org/go-repo-out v1.0.4
