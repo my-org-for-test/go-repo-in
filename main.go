@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/my-org-for-test/go-repo-out/dependency"
+	"github.com/my-org-org/go-repo-out/dependency"
 )
 
 func main() {
